@@ -1,0 +1,6 @@
+{
+  "name": "IreenTV Showcase",
+  "description": "The official high-performance showcase and landing page for IreenTV - Live Sports, Movies, Music, and Bengali Entertainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
