@@ -1,7 +1,7 @@
 # 📺 IreenTV — Live Sports, Movies, Music & Bengali Entertainment
 
 <p align="center">
-  <a href="https://ireentv.pages.dev/">
+  <a href="https://ireentvhd.pages.dev/">
     <img src="https://raw.githubusercontent.com/ireentv/Ireen-TV-Mobile/main/assets/logo.png" alt="IreenTV Logo" width="180px" onerror="this.src='https://img.icons8.com/color/180/television.png'"/>
   </a>
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ireentv.pages.dev/"><img src="https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website"/></a>
+  <a href="https://ireentvhd.pages.dev/"><img src="https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website"/></a>
   <a href="https://t.me/ireentv"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support"/></a>
   <a href="https://anamul.pages.dev/"><img src="https://img.shields.io/badge/Developer-MD%20Anamul%20Hoque-ff69b4?style=for-the-badge&logo=developer&logoColor=white" alt="Developer Portfolio"/></a>
 </p>
@@ -84,22 +84,22 @@ Get the official, clean, and pre-compiled applications directly from the GitHub 
 
 ### 📱 1. Android Mobile App
 Best optimized layout for smartphone portrait & landscape layouts. High touch target buttons and instant notifications.
-* **Download APK:** [IreenTV Mobile.apk](https://github.com/ireentv/IreenTV-Mobile-Apps/raw/refs/heads/main/IreenTV%20Mobile.apk)
+* **Download APK:** [IreenTV Mobile.apk](https://github.com/ireentv/IreenTV-Mobile-Apps/releases/download/mobile%26tv/IreenTV.apk)
 
 ### 📺 2. Android Smart TV HD App
 Optimized full-screen D-pad navigation support for Android TV, FireStick, and TV Boxes. Enjoy clean cinema views.
-* **Download APK:** [Smart TV HD.apk](https://github.com/ireentv/Smart-TV-Apps/raw/refs/heads/main/Smart%20TV%20HD.apk)
+* **Download APK:** [Smart TV HD.apk](https://github.com/ireentv/IreenTV-Mobile-Apps/releases/download/mobile%26tv/IreenTV.apk)
 
 ### 🌐 3. Web Version
 No installation required! Stream directly from any modern web browser.
-* **Visit Site:** [ireentv.pages.dev](https://ireentv.pages.dev/)
+* **Visit Site:** [ireentv.pages.dev](https://ireentvhd.pages.dev/)
 
 ---
 
 ## 🛠️ How to Install on Smart TV / স্মার্ট টিভিতে ইনস্টল করার নিয়ম
 
 1. **Enable Unknown Sources:** Go to your TV's `Settings` -> `Security & Restrictions` -> enable **"Unknown Sources"**.
-2. **Download APK:** Download the **[Smart TV HD.apk](https://github.com/ireentv/Smart-TV-Apps/raw/refs/heads/main/Smart%20TV%20HD.apk)** file onto a USB flash drive or use the "Downloader" app on your TV.
+2. **Download APK:** Download the **[Smart TV HD.apk](https://github.com/ireentv/IreenTV-Mobile-Apps/releases/download/mobile%26tv/IreenTV.apk)** file onto a USB flash drive or use the "Downloader" app on your TV.
 3. **Install:** Open your TV's file explorer, select the USB drive, click on the APK, and choose **Install**.
 4. **Enjoy:** Launch IreenTV from your App Drawer and start streaming!
 
