@@ -19,6 +19,7 @@
 <p align="center">
   <a href="#-downloads"><img src="https://img.shields.io/badge/Mobile%20App-Download%20APK-orange?style=flat-square&logo=android&logoColor=white" alt="Download Mobile APK"/></a>
   <a href="#-downloads"><img src="https://img.shields.io/badge/Smart%20TV%20App-Download%20APK-blue?style=flat-square&logo=android-tv&logoColor=white" alt="Download Smart TV APK"/></a>
+  <a href="#-downloads"><img src="https://img.shields.io/badge/PC%20Version-Download%20EXE-green?style=flat-square&logo=computer&logoColor=pink" alt="Download Windows Version"/></a>
 </p>
 
 ---
@@ -87,8 +88,10 @@ Best optimized layout for smartphone portrait & landscape layouts. High touch ta
 Optimized full-screen D-pad navigation support for Android TV, FireStick, and TV Boxes. Enjoy clean cinema views.
 * **Download APK:** [Smart TV HD.apk](https://github.com/ireentv/IreenTV-Mobile-Apps/releases/download/mobile%26tv/IreenTV.apk)
 
-### 🌐 3. Web Version
-No installation required! Stream directly from any modern web browser.
+### 🖥 3. Windows Version
+Windows 10, Windows 11 (64-bit) সহ যেকোনো পিসিতে ফুলস্ক্রিন ও বাফারিংহীন চলে।
+* **Download EXE:** [IreenTV Windows.exe](https://github.com/ireentv/IreenTV-Windows/releases/download/IreenTV-Windows/Ireen-TV-Setup-1.0.0.exe)
+
 * **Visit Site:** [ireentv.pages.dev](https://ireentvhd.pages.dev/)
 
 ---
